@@ -1,0 +1,14 @@
+{
+  "name": "bdd_exercise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "author": "Isaac Kalumba",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@cucumber/cucumber": "^10.8.0"
+  }
+}
